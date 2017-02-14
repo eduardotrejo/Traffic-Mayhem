@@ -11,4 +11,4 @@
 
 <p>The game will consist of 2 levels and a good amount of cars and obstacles to go through. If the player gets hit by a car or encounters other obstacles, the player will reset to the starting position. The player will have 3 lives to attempt each level.</p>    
 
-<center>![Traffic Mayhem](https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/title_screen.png)</center>
+<p align="center"![Traffic Mayhem](https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/title_screen.png)>
