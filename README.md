@@ -12,14 +12,15 @@
 <b>Consist of:</b>
 * Levels: 2
 * Time Limit: 60 seconds
-* Obstacles: cars and trucks
+* Obstacles: Cars and trucks
+* Vehicle Speed: Varies
 * Items: 4 on each level
 
 <b>Controls:</b>
 * Up: Move forwards
 * Down: Move backwards
-* Left: Move left
-* Right: Move right
+* Left: Move to left
+* Right: Move to right
 
 <b>Ongoing Game</b>
 <p>During the game your goal will be to try to avoid any incoming traffic as you make your way to the items. The player can travel back and forth to previous locations if needed to advance through the game. The player will require to obtain a certain amount of items in the level to move on to the next level of the game. When you reach an item you will restart at your starting position, so it gives a better experience and some sort of difficulty. To help out the player there are small gaps between cars so the player can think of how to approach things instead of just rushing in. When the player gets hit there will be a sound effect that plays.
