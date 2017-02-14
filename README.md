@@ -9,7 +9,12 @@
 * Sound effects for the player and enemies 
 * Image files for the player, cars, stage, objects/hazards, and backgrounds
 
-<p>The game will consist of 2 levels and a good amount of cars and obstacles to go through. If the player gets hit by a car or encounters other obstacles, the player will reset to the starting position. The player will have 3 lives to attempt each level.</p>    
+<b>Consist of:</b>
+* Levels: 2
+* Time Limit: 60 seconds
+* Obstacles: cars and trucks
+* Items: 4 on each level
+
 <b>Ongoing Game:</b>
 <p>During the game your goal will be to try to avoid any incoming traffic as you make your way to the items. The player can travel back and forth to previous locations if needed to advance through the game. The player will require to obtain a certain amount of items in the level to move on to the next level of the game. When you reach an item you will restart at your starting position, so it gives a better experience and some sort of difficulty. To help out the player there are small gaps between cars so the player can think of how to approach things instead of just rushing in. When the player gets hit there will be a sound effect that plays.
 <br><br>
