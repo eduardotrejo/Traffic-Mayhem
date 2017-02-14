@@ -5,10 +5,8 @@
 <b>Created by Eduardo Trejo </b>
 
 <b>Contents Needed:</b>
-* background music
-* sound effects for the player and enemies 
-* image files for the player, cars, stage, objects/hazards, and backgrounds
-
-
+* Background music
+* Sound effects for the player and enemies 
+* Image files for the player, cars, stage, objects/hazards, and backgrounds
 
 <p>The game will consist of 2 levels and a good amount of cars and obstacles to go through. If the player gets hit by a car or encounters other obstacles, the player will reset to the starting position. The player will have 3 lives to attempt each level.</p>    
