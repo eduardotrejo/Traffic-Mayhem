@@ -2,7 +2,7 @@
 
 <b>Title Screen</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/title_screen.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/title_screen.png"/>
 </p>
 <p>Traffic Mayhem is my attempt to create the classic game Frogger, it will be a simplified version of the game. The game’s genre can be classified as an overhead action game.</p>
 
@@ -36,23 +36,23 @@ The player’s lives will be displayed at the bottom left and next to it the tim
 </p>
 <b>First Level</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/first_level.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/first_level.png"/>
 </p>
 <b>Second Level</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/second_level.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/second_level.png"/>
 </p>
 <b>Winning Screen, occurs when all items are obtained</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_win.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/game_win.png"/>
 </p>
 <b>Game Over, occurs when all lives are lost</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_over.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/game_over.png"/>
 </p>
 <b>Game Over, occurs when out of time</b>
 <p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_over2.png"/>
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/ScreenShots/game_over2.png"/>
 </p>
 
 
