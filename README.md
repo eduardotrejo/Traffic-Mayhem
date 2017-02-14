@@ -1,5 +1,9 @@
 # Traffic Mayhem
 
+<b>Title Screen</b>
+<p align="center">
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/title_screen.png"/>
+</p>
 <p>Traffic Mayhem is my attempt to create the classic game Frogger, it will be a simplified version of the game. The game’s genre can be classified as an overhead action game.</p>
 
 <b>Created by Eduardo Trejo </b>
@@ -29,10 +33,6 @@ The player’s lives will be displayed at the bottom left and next to it the tim
 </p>
 <b>End Game</b>
 <p>The game will end once you have lost all lives or have beaten all the levels that the player faced. The game will also end if the player runs out of time.      
-</p>
-<b>Title Screen</b>
-<p align="center">
-<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/title_screen.png"/>
 </p>
 <b>First Level</b>
 <p align="center">
