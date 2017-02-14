@@ -1,2 +1,4 @@
-# Traffic-Mayhem
-Developed in C language, this is my attempt to create the classic game Frogger, it will be a simplified version of the game.
+# Traffic Mayhem
+
+Program will provide the baackground music and sound effects for the player and enemies.
+Program will use image files for the player, cars, stage, objects/hazards, and backgrounds
