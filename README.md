@@ -20,6 +20,12 @@
 <img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/second_level.png"/>
 </p>
 <p align="center">
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_win.png"/>
+</p>
+<p align="center">
 <img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_over.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/eduardotrejo/Traffic-Mayhem/blob/master/game_over2.png"/>
 </p>
 
