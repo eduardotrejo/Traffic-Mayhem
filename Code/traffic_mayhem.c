@@ -7,7 +7,6 @@
 *
 *			Disclaimer: None of the sounds, music or sprites belong to me.
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 12/09/2014
 */
 
